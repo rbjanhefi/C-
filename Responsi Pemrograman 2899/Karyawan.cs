@@ -30,7 +30,7 @@ namespace ResponsiPemrograman2899
             Console.WriteLine("No Nik/Nama\t\t\tGaji Bulanan");
             Console.WriteLine("-------------------------------------------");
             Console.WriteLine("1. {0} {1}\t\t{2}", nik1, nama1, 0.1*gaji1+gaji1);
-            Console.WriteLine("2. {0} {1}\t\t{2}", nik2, nama2, 0.1*gaji2+gaji1);
+            Console.WriteLine("2. {0} {1}\t\t{2}", nik2, nama2, 0.1*gaji2+gaji2);
         }
 
     }
