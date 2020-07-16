@@ -1,0 +1,13 @@
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.exe
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.deps.json
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.runtimeconfig.json
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.runtimeconfig.dev.json
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.dll
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.pdb
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.AssemblyInfo.cs
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.dll
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.pdb
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.genruntimeconfig.cache
